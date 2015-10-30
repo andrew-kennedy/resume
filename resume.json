@@ -1,0 +1,186 @@
+{
+  "basics": {
+    "name": "Andrew Kennedy",
+    "label": "Computer Science Student, Developer",
+    "picture": "https://avatars3.githubusercontent.com/u/2387159?v=3&s=460",
+    "email": "andrewk36@gmail.com",
+    "phone": "(760) 522-9613",
+    "website": "http://akennedy.me",
+    "summary": "There are a few things you should know about me: I love sofware development and design. I don't just want to improve the software I work on, I want to improve the way I go about learning and improving. The best way I could capture it is that I simply care, a lot. There are many who just get the job done, to whatever minimum standard that entails. I will go home and research and design for hours to come up with the best naming conventions and design patterns for my task at work. I am never just satisfied with designing for the bare minimum, the right now. I want to build for the long term, thinking of people who will maintain my work long after I've gone. I want to design code that is not only functional, but beautiful. Finally, I want to do all of this thinking and learning with a team that is just as excited as me.",
+    "location": {
+      "address": "626 Broad St. #4",
+      "postalCode": "CA 93401",
+      "city": "San Luis Obispo",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [{
+      "network": "twitter",
+      "username": "andrewknndy",
+      "url": "https://twitter.com/andrewknndy"
+    }, {
+      "network": "github",
+      "username": "andrew-kennedy",
+      "url": "https://github.com/andrew-kennedy"
+    }]
+  },
+  "work": [{
+      "company": "Microsoft",
+      "position": "Software Engineer Intern",
+      "website": "https://microsoft.com",
+      "startDate": "2016-06-20",
+      "endDate": "2015-09-09",
+      "summary": "Microsoft's mission is to empower every person and every organization on the planet to achieve more",
+      "highlights": []
+    }, {
+    "company": "Rosetta, Inc.",
+    "position": "Software Engineer Intern",
+    "website": "http://rosetta.com",
+    "startDate": "2015-06-15",
+    "endDate": "2015-09-15",
+    "summary": "Rosetta is an agency focused on customer engagement. We connect rich data, engaging experiences and robust technologies to forge meaningful relationships with customers that drive business impact.",
+    "highlights": [
+      "Worked extensively on migrating a large web application backend from AEM 5.6 to AEM 6.1",
+      "Refactored and generally beautified the codebase",
+      "Implemented new OSGi services and components",
+      "Implemented a RESTful API atop DynamoDB",
+      "Designed and implemented a MySQL database schema"
+    ]
+  }, {
+    "company": "Tapestry Solutions",
+    "position": "Part-time Software Engineer",
+    "website": "http://tapestrysolutions.com",
+    "startDate": "2013-12-01",
+    "endDate": "2015-01-15",
+    "summary": "Tapestry Solutions provides our customers with enhanced vertically integrated, end-to-end logistics and asset management solutions to resolve critical customer business challenges. Our specialized expertise, knowledge and technical capabilities help customers achieve maximum efficiency in their operations and logistics business functions.",
+    "highlights": [
+      "Maintained both the server and client side of a large web application designed to manage large cargo yards that was implemented in Java and Flex/ActionScript",
+      "Gained experience with Apache Tomcat, ActionScript 3, Maven, Hibernate ORM, and Spring"
+    ]
+  }],
+  "volunteer": [{
+    "organization": "Cru Central Coast",
+    "position": "Developer",
+    "website": "http://crucentralcoast.com/",
+    "startDate": "",
+    "endDate": "",
+    "summary": "Christian club and college ministry in the Central Coast area.",
+    "highlights": [
+      "Completely rewrote the old PHP and CodeIgniter site in Node.js and related technologies",
+      "Moved to a modern webapp model, a heroku buildpack-compatible node app"
+    ]
+  }],
+  "education": [{
+    "institution": "California Polytechnic State University, San Luis Obispo",
+    "area": "Major: Computer Science, Minor: Philosophy",
+    "studyType": "Bachelor of Science",
+    "startDate": "2012-09-22",
+    "endDate": "2016-12-01",
+    "gpa": "",
+    "courses": []
+  }],
+  "awards": [],
+  "publications": [],
+  "skills": [{
+    "name": "Programming Languages",
+    "level": "",
+    "keywords": [
+      "Java",
+      "Javascript",
+      "Python",
+      "C"
+    ]
+  }, {
+    "name": "Frontend",
+    "level": "",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "JQuery"
+    ]
+  }, {
+    "name": "Servers",
+    "level": "",
+    "keywords": [
+      "Tomcat",
+      "Sling"
+    ]
+  }, {
+    "name": "Backend",
+    "level": "",
+    "keywords": [
+      "Node.js",
+      "Django",
+      "Flask",
+      "KeystoneJS",
+      "Spring"
+    ]
+  }, {
+    "name": "Operating Systems",
+    "level": "",
+    "keywords": [
+      "OS X",
+      "Linux"
+    ]
+  }, {
+    "name": "Version Control",
+    "level": "",
+    "keywords": [
+      "Git",
+      "Subversion"
+    ]
+  }, {
+    "name": "Storage",
+    "level": "",
+    "keywords": [
+      "MySQL",
+      "Postgres",
+      "DynamoDB",
+      "Hibernate ORM",
+      "Sequelize",
+      "JCR"
+    ]
+  }, {
+    "name": "Technologies/Platforms",
+    "level": "",
+    "keywords": [
+      "AEM",
+      "Adobe/Apache Flex",
+      "Android"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Software",
+    "keywords": [
+      "Haskell",
+      "Clojure",
+      "ClojureScript",
+      "Android Development"
+    ]
+  }, {
+    "name": "Web Development",
+    "keywords": [
+      "Full stack design philosophies",
+      "dust.js",
+      "mithril.js",
+      "Native webapps",
+      "Functional libraries"
+    ]
+  }, {
+    "name": "Misc",
+    "keywords": [
+      "Microservices",
+      "Unikernel",
+      "MirageOS",
+      "QubeOS",
+      "CoreOS",
+      "Containerization and security"
+    ]
+  }],
+  "references": []
+}
