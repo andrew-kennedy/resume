@@ -61,18 +61,7 @@
       "Gained experience with Apache Tomcat, ActionScript 3, Maven, Hibernate ORM, and Spring"
     ]
   }],
-  "volunteer": [{
-    "organization": "Cru Central Coast",
-    "position": "Developer",
-    "website": "http://crucentralcoast.com/",
-    "startDate": "",
-    "endDate": "",
-    "summary": "Christian college ministry in the Central Coast area.",
-    "highlights": [
-      "Completely rewrote the old PHP and CodeIgniter site using Keystone.js, MongoDB, and related technologies",
-      "Moved to a modern webapp model, a heroku buildpack-compatible node app"
-    ]
-  }],
+  "volunteer": [],
   "education": [{
     "institution": "California Polytechnic State University, San Luis Obispo",
     "area": "Major: Computer Science, Minor: Philosophy",
@@ -98,8 +87,10 @@
     "name": "Frontend",
     "level": "",
     "keywords": [
-      "HTML",
-      "CSS",
+      "HTML5",
+      "Angular",
+      "TypeScript",
+      "CSS3",
       "Javascript",
       "JQuery"
     ]
@@ -115,6 +106,7 @@
     "level": "",
     "keywords": [
       "Node.js",
+      "ASP.NET",
       "Django",
       "Flask",
       "KeystoneJS",
@@ -139,10 +131,8 @@
     "level": "",
     "keywords": [
       "MySQL",
-      "Postgres",
       "DynamoDB",
       "Hibernate ORM",
-      "Sequelize",
       "JCR"
     ]
   }, {
@@ -159,6 +149,9 @@
     "fluency": "Native speaker"
   }],
   "interests": [{
+    "name": "Security",
+    "keywords": []
+  }, {
     "name": "Software",
     "keywords": [
       "Haskell",
@@ -171,6 +164,8 @@
     "keywords": [
       "Full stack design philosophies",
       "dust.js",
+      "Vue.js",
+      "Cycle.js",
       "mithril.js",
       "Native webapps",
       "Functional libraries"
