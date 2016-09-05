@@ -32,7 +32,7 @@
     "endDate": "2015-09-09",
     "summary": "Microsoft's mission is to empower every person and every organization on the planet to achieve more",
     "highlights": [
-      "Worked from start to finish on both designing from the ground up and implementing an internal bot that would help engineers interact with compatability data",
+      "Worked from start to finish on both designing from the ground up and implementing an internal bot that would help engineers interact with compatibility data",
       "Worked on the full stack, from the .NET web service to the Angular + Typescript UI.",
       "Used natural language processing tools like LUIS to model and understand user intent"]
     }, {
