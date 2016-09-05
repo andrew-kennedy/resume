@@ -28,8 +28,8 @@
     "company": "Microsoft",
     "position": "Software Engineer Intern",
     "website": "https://microsoft.com",
-    "startDate": "2016-06-20",
-    "endDate": "2016-09-09",
+    "startDate": "2016-06",
+    "endDate": "2016-09",
     "summary": "Microsoft's mission is to empower every person and every organization on the planet to achieve more",
     "highlights": [
       "Worked from start to finish on both designing from the ground up and implementing an internal bot that would help engineers interact with compatibility data",
@@ -39,8 +39,8 @@
     "company": "Rosetta, Inc.",
     "position": "Software Engineer Intern",
     "website": "http://rosetta.com",
-    "startDate": "2015-06-15",
-    "endDate": "2015-09-15",
+    "startDate": "2015-06",
+    "endDate": "2015-09",
     "summary": "Rosetta is an agency focused on customer engagement. We connect rich data, engaging experiences and robust technologies to forge meaningful relationships with customers that drive business impact.",
     "highlights": [
       "Worked extensively on migrating a large web application backend from AEM 5.6 to AEM 6.1",
@@ -53,8 +53,8 @@
     "company": "Tapestry Solutions",
     "position": "Part-time Software Engineer",
     "website": "http://tapestrysolutions.com",
-    "startDate": "2013-12-01",
-    "endDate": "2015-01-15",
+    "startDate": "2013-12",
+    "endDate": "2015-01",
     "summary": "Tapestry Solutions provides our customers with enhanced vertically integrated, end-to-end logistics and asset management solutions to resolve critical customer business challenges. Our specialized expertise, knowledge and technical capabilities help customers achieve maximum efficiency in their operations and logistics business functions.",
     "highlights": [
       "Maintained both the server and client side of a large web application designed to manage large cargo yards that was implemented in Java and Flex/ActionScript",
